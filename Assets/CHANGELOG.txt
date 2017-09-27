@@ -1,0 +1,104 @@
+CHANGELOG
+
+
+
+
+
+=========== Old Changelog for MS-Series VRA ===
+20150611
+- Cam-Freeze for TouchMarker
+- Allow viewpoint recentering based on GazeTarget attribute
+- More flexible status text in Tablet-VRA
+- playOnceAndReturn (for format_change anim)
+
+20150610
+- In-Editor screen fading (Tablet-VRA)
+- Fixed unwanted cam spin (Tablet-VRA) 
+
+20150607
+- Enable/Disable powersaving on tablet
+
+20150606
+- Re-designed main menu for tablet app
+- Set appropiate AndroidManifest for tablet/gear VR app
+- Changed touch marker (color, size)
+- Fixed touch marker leftovers
+- Tablet Auto-Connect
+
+20150602
+- Raise crosshair 5° above center
+- Added flags for language selection.
+- Set CPU clock according to demand: high during startup and when loading videos, medium during video playback and low for viewpoint stills.
+- Content updates
+- Added Text Mesh Pro plugin to improve font rendering i.e. glow/background 
+- Replaced next/prev targets with jump targets.
+- Added progress bar to splash_screen scene.
+
+
+20150527
+- Content updated during Workshop
+
+20150526
+- Implemented dual language support
+- Implemented language selection and PlayerPref for it
+- Fixed tablet fade out/fade in
+- Implemented viewpoint referencing using tags
+- Imported english voice recordings
+- Updated VRA media
+- Updated Target positions and labels
+
+
+20150525
+- Replaced nextPosition/previousPostion,startButton,stopButton and infoPoints with generic "Targets"
+- Implemented generic gaze target definition (allow multiple jump targets)
+- Implemented GazeTarget synchroniziation between VRA and Tablet
+- Implemented Bundesliga function (marker on tablet app)
+- Implemented custom editor Menu "VRA-Build"
+
+20150524
+- Auto-Increment Build-Counter
+- Tablet-Splash-Screen
+- Smooth camera movement on tablet
+- Escape to disconnect on tablet
+- Implemented Start/Stop buttons to start/stop machine animation
+
+20150522
+- Optimized fade in/fade out, pre-initialize mediaPlayer for next video
+- Create simplified splash screen (loading screen)
+- Updated Seidenader banner (fixed CI colors)
+- Added narrator texts
+- Updated sdcard content
+- SetCpuLevel(3)
+
+
+20150521
+- Defined new infopoints/positions.
+- Show text labels on infopoints
+
+20150520
+- Integrated overlay solution in main viewpoint scene.
+- Enable/Disable Overlay in XML.
+- Changed startup scene to show during picture preload (showing a headtracked "please wait" scene).
+- Stop narrator on tap.
+
+20150519
+
+- Implemented VRA network discovery using UDP broadcasts.
+
+20150515
+
+- Overlay-Test in Scene Viewpoint_Overlay_Test
+- Added simple "Startup" Scene based on Oculus Startup Sample to preload viewpoint images
+- Changed splash screen (Unity Pro, yeah!)
+
+20150512
+- Cleaning up
+
+20150511
+- Hm, kind of forgot about the changelog...
+
+20150428
+
+- Implemented ScreenFader
+- Renamed viewpoint video/picturefilename to filename
+- Fixed video loading (allow multiple video viewpoints)

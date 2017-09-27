@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GazeTarget
+  - ViewpointManager
+  - NetworkSync
+  - AudioSource
+  - NetworkManager
+  - TouchMarker
+  - HighScoreKeeper
+  - DiamondGame
+  - Pulse
+  - Thermometer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - IgnoreBlobShadow
+  - Left_Eye_Only
+  - Right_Eye_Only
+  - Menu_Background
+  - GazeHelpers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

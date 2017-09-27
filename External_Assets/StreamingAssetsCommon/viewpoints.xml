@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ViewpointCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Viewpoints>
+  
+<ViewpointXML>
+			<tag>GameBackground</tag>
+			<isVideo>false</isVideo>
+			<filename>GameBackground.jpg</filename>
+			<camRotation>0</camRotation>
+			<isStereoscopic>true</isStereoscopic>
+			<loadPrefab>DiamondGame</loadPrefab>
+			<targets>
+			</targets>
+  </ViewpointXML>  
+  
+  </Viewpoints>
+</ViewpointCollection>

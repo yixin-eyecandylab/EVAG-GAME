@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: b58abc835d674ed46bdc82825eb63eec
+timeCreated: 1502179823
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Capsule001
+    100002: Line001
+    100004: Line002
+    100006: Object001
+    100008: Rectangle001
+    100010: Shape001
+    100012: Text001
+    100014: //RootNode
+    100016: Box001
+    100018: Box002
+    100020: Box003
+    100022: Box004
+    100024: Box005
+    100026: Box006
+    100028: Box007
+    100030: Box008
+    100032: Box009
+    100034: Box010
+    100036: Box011
+    400000: Capsule001
+    400002: Line001
+    400004: Line002
+    400006: Object001
+    400008: Rectangle001
+    400010: Shape001
+    400012: Text001
+    400014: //RootNode
+    400016: Box001
+    400018: Box002
+    400020: Box003
+    400022: Box004
+    400024: Box005
+    400026: Box006
+    400028: Box007
+    400030: Box008
+    400032: Box009
+    400034: Box010
+    400036: Box011
+    2300000: Capsule001
+    2300002: Line001
+    2300004: Line002
+    2300006: Object001
+    2300008: Rectangle001
+    2300010: Shape001
+    2300012: Text001
+    2300014: Box001
+    2300016: Box002
+    2300018: Box003
+    2300020: Box004
+    2300022: Box005
+    2300024: Box006
+    2300026: Box007
+    2300028: Box008
+    2300030: Box009
+    2300032: Box010
+    2300034: Box011
+    3300000: Capsule001
+    3300002: Line001
+    3300004: Line002
+    3300006: Object001
+    3300008: Rectangle001
+    3300010: Shape001
+    3300012: Text001
+    3300014: Box001
+    3300016: Box002
+    3300018: Box003
+    3300020: Box004
+    3300022: Box005
+    3300024: Box006
+    3300026: Box007
+    3300028: Box008
+    3300030: Box009
+    3300032: Box010
+    3300034: Box011
+    4300000: Rectangle001
+    4300002: Line001
+    4300004: Line002
+    4300006: Text001
+    4300008: Capsule001
+    4300010: Shape001
+    4300012: Object001
+    4300014: Box001
+    4300016: Box002
+    4300018: Box003
+    4300020: Box004
+    4300022: Box005
+    4300024: Box006
+    4300026: Box007
+    4300028: Box008
+    4300030: Box009
+    4300032: Box010
+    4300034: Box011
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 990d0c5124a905647971f6b211d79938
+timeCreated: 1502075116
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: Cloner
+    100004: Disc_0
+    100006: Disc_1
+    100008: Disc_10
+    100010: Disc_11
+    100012: Disc_12
+    100014: Disc_13
+    100016: Disc_14
+    100018: Disc_15
+    100020: Disc_16
+    100022: Disc_17
+    100024: Disc_18
+    100026: Disc_19
+    100028: Disc_2
+    100030: Disc_20
+    100032: Disc_21
+    100034: Disc_22
+    100036: Disc_23
+    100038: Disc_24
+    100040: Disc_3
+    100042: Disc_4
+    100044: Disc_5
+    100046: Disc_6
+    100048: Disc_7
+    100050: Disc_8
+    100052: Disc_9
+    100054: Displacer
+    100056: //RootNode
+    100058: Null
+    100060: Subdivision_Surface
+    400000: CINEMA_4D_Editor
+    400002: Cloner
+    400004: Disc_0
+    400006: Disc_1
+    400008: Disc_10
+    400010: Disc_11
+    400012: Disc_12
+    400014: Disc_13
+    400016: Disc_14
+    400018: Disc_15
+    400020: Disc_16
+    400022: Disc_17
+    400024: Disc_18
+    400026: Disc_19
+    400028: Disc_2
+    400030: Disc_20
+    400032: Disc_21
+    400034: Disc_22
+    400036: Disc_23
+    400038: Disc_24
+    400040: Disc_3
+    400042: Disc_4
+    400044: Disc_5
+    400046: Disc_6
+    400048: Disc_7
+    400050: Disc_8
+    400052: Disc_9
+    400054: Displacer
+    400056: //RootNode
+    400058: Null
+    400060: Subdivision_Surface
+    2300000: Disc_0
+    2300002: Disc_1
+    2300004: Disc_10
+    2300006: Disc_11
+    2300008: Disc_12
+    2300010: Disc_13
+    2300012: Disc_14
+    2300014: Disc_15
+    2300016: Disc_16
+    2300018: Disc_17
+    2300020: Disc_18
+    2300022: Disc_19
+    2300024: Disc_2
+    2300026: Disc_20
+    2300028: Disc_21
+    2300030: Disc_22
+    2300032: Disc_23
+    2300034: Disc_24
+    2300036: Disc_3
+    2300038: Disc_4
+    2300040: Disc_5
+    2300042: Disc_6
+    2300044: Disc_7
+    2300046: Disc_8
+    2300048: Disc_9
+    3300000: Disc_0
+    3300002: Disc_1
+    3300004: Disc_10
+    3300006: Disc_11
+    3300008: Disc_12
+    3300010: Disc_13
+    3300012: Disc_14
+    3300014: Disc_15
+    3300016: Disc_16
+    3300018: Disc_17
+    3300020: Disc_18
+    3300022: Disc_19
+    3300024: Disc_2
+    3300026: Disc_20
+    3300028: Disc_21
+    3300030: Disc_22
+    3300032: Disc_23
+    3300034: Disc_24
+    3300036: Disc_3
+    3300038: Disc_4
+    3300040: Disc_5
+    3300042: Disc_6
+    3300044: Disc_7
+    3300046: Disc_8
+    3300048: Disc_9
+    4300000: Disc_0
+    4300002: Disc_1
+    4300004: Disc_2
+    4300006: Disc_3
+    4300008: Disc_4
+    4300010: Disc_5
+    4300012: Disc_6
+    4300014: Disc_7
+    4300016: Disc_8
+    4300018: Disc_9
+    4300020: Disc_10
+    4300022: Disc_11
+    4300024: Disc_12
+    4300026: Disc_13
+    4300028: Disc_14
+    4300030: Disc_15
+    4300032: Disc_16
+    4300034: Disc_17
+    4300036: Disc_18
+    4300038: Disc_19
+    4300040: Disc_20
+    4300042: Disc_21
+    4300044: Disc_22
+    4300046: Disc_23
+    4300048: Disc_24
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
